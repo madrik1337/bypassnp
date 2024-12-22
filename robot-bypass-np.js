@@ -10,6 +10,7 @@
 // @updateURL    https://github.com/madrik1337/bypassnp/raw/main/robot-bypass-np.js
 // @homepage     https://github.com/madrik1337/bypassnp
 // ==/UserScript==
+
 (function () {
     'use strict';
 
