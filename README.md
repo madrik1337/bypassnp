@@ -10,4 +10,5 @@
 - Установите приложение [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887)
 - В настройках Safari включите расширение Userscripts и выдайте ему доступы, которые он просит
 - Скачайте [этот скрипт](https://github.com/madrik1337/bypassnp/blob/main/robot-bypass.user.js) и сохраните в памяти вашего устройства
+- В [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) выберите папку, где лежит скрипт
 - Если вы всё сделали правильно, то в веб-версии Telegram у вас будет работать bypass
