@@ -6,8 +6,8 @@
 // @grant       none
 // @version     1.0
 // @description Убирает табличку с роботом на забаненых аккаунтах в NP.
-// @downloadURL  https://github.com/madrik1337/bypassnp/raw/main/robot-bypass-np.js
-// @updateURL    https://github.com/madrik1337/bypassnp/raw/main/robot-bypass-np.js
+// @downloadURL  https://github.com/madrik1337/bypassnp/raw/main/robot-bypass.user.js
+// @updateURL    https://github.com/madrik1337/bypassnp/raw/main/robot-bypass.user.js
 // @homepage     https://github.com/madrik1337/bypassnp
 // ==/UserScript==
 
