@@ -24,10 +24,9 @@
         }
     }
 
-    // уведомление
+    // уведы
     function showNotification() {
         const notification = document.createElement('div');
-        notification.innerHTML = "&#10003; Bypass Robot activated!";
         notification.style.position = 'fixed';
         notification.style.top = '20px';
         notification.style.left = '50%';
@@ -40,9 +39,14 @@
         notification.style.fontSize = '16px';
         notification.style.fontWeight = 'bold';
         notification.style.zIndex = '9999';
+        notification.style.textAlign = 'center';
+
+        // текст
+        notification.innerHTML = `&#10003; Bypass Robot activated! Made by <a href="https://t.me/madrik1337" target="_blank" style="color: #00bfff; text-decoration: none; font-weight: bold;">madrik1337</a>`;
+
         document.body.appendChild(notification);
 
-        // кд на увед
+        // кд увед
         setTimeout(() => {
             notification.remove();
         }, 3000);
