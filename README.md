@@ -3,8 +3,8 @@
 ---
 
 ## Какой скрипт за что отвечает?
-[Robot-bypass](https://github.com/madrik1337/bypassnp/raw/main/robot-bypass.user.js) - нужен для тех, у кого аккаунт заблокирован табличкой "Hello, mr. Robot"
-[Version-bypass](https://github.com/madrik1337/bypassnp/raw/main/version-bypass.user.js) - нужен для тех, кого игра не впускает с ошибкой "Your Telegram App is too old. Update your app."
+- [Robot-bypass](https://github.com/madrik1337/bypassnp/raw/main/robot-bypass.user.js) - нужен для тех, у кого аккаунт заблокирован табличкой "Hello, mr. Robot"
+- [Version-bypass](https://github.com/madrik1337/bypassnp/raw/main/version-bypass.user.js) - нужен для тех, кого игра не впускает с ошибкой "Your Telegram App is too old. Update your app."
 
 
 ## Как установить
