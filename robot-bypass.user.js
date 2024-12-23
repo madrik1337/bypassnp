@@ -2,8 +2,7 @@
 // @name        Robot-bypass for NotPixel
 // @author       madrik1337
 // @match        https://web.telegram.org/*
-// @match        https://notpx.app/*
-// @match        https://app.notpx.app/*
+// @match        https://*notpx.app/*
 // @grant       none
 // @version     1.0
 // @description Убирает табличку с роботом на забаненых аккаунтах в NP.
