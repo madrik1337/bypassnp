@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Robot-bypass for NotPixel
 // @author       madrik1337
-// @match        https://web.telegram.org/*/*
+// @match        https://web.telegram.org/*
 // @match        https://notpx.app/*
 // @grant       none
 // @version     1.0
