@@ -36,13 +36,13 @@
 
             if (versionUpdated || platformUpdated) {
                 iframe.src = updatedSrc;
-                console.log('tgWebApp параметры успешно обновлены:', updatedSrc);
+                console.log('yes', updatedSrc);
                 showNotification(updatedSrc);
             } else {
-                console.log('Параметры tgWebAppVersion или tgWebAppPlatform не найдены.');
+                console.log('fail');
             }
         } else {
-            console.log('iframe src не содержит tgWebAppData.');
+            console.log('fail');
         }
     }
 
@@ -104,7 +104,7 @@
         mutationsList.forEach((mutation) => {
             mutation.addedNodes.forEach((node) => {
                 if (node.tagName === 'IFRAME') {
-                    console.log('Найден новый iframe:', node);
+                    console.log('yes');
                     updateIframeParams(node);
                 }
             });
